@@ -1,16 +1,6 @@
 
-// Comentário de Linha 
+var age = 29;
 
-console.log("Hello World"); // Logando " Hello World" no console do Computador
+age = 30;
 
-/* Comentário de Bloco Simples */
-
-/*
-console.log ()"Olá, Mundo");
-*/
-
-/**
- * comentário de bloco com marcador
- */
-
-
+console.log(age);
